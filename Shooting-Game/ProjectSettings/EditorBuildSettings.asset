@@ -6,8 +6,11 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 99c9720ab356a0642a771bea13969a05
+    path: Assets/Scenes/TrainingRange.unity
+    guid: 9ae74858620543d5ac324be733adf61f
+  - enabled: 1
+    path: Assets/Scenes/CombatZone.unity
+    guid: a0be00d11a79485e90de290398cb9919
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: feb6bb44cd5b338489914bfe3202d617, type: 2}

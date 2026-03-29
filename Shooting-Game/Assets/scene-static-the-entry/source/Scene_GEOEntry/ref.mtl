@@ -1,0 +1,426 @@
+#
+# ref.mtl
+#
+
+newmtl ChairAntique
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\ChairAntique.jpg
+
+newmtl FurnitureTable001a
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\furnituretable001a.jpg
+
+newmtl Material01
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/mats\Material01.jpg
+
+newmtl bag
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\Bag.jpeg
+
+newmtl ballistic
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\BallisticProtection.jpeg
+
+newmtl barrel
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\barrel.jpg
+
+newmtl barrier
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\concrete_barrier_02_dm.jpg
+
+newmtl boots
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\Boots.jpeg
+
+newmtl box01
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\box01.jpg
+
+newmtl button
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\button.jpeg
+
+newmtl cart
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\cartridges.jpg
+
+newmtl circles
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\circles.jpg
+
+newmtl general
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd general.jpg
+
+newmtl default
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\default.jpg
+
+newmtl flashbang
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\Flashbang.jpeg
+
+newmtl flashlig
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\flashlig.jpg
+
+newmtl flashlight_d
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\flashlight_d.jpg
+
+newmtl floor
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\floor04.jpg
+
+newmtl fore
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\FORE.jpg
+
+newmtl handguard
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\handguard.jpg
+
+newmtl head
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\Head.jpeg
+
+newmtl holster
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\Holster.jpeg
+
+newmtl lam2
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\lam2.jpg
+
+newmtl mag
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\mag.jpg
+
+newmtl magclip
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\MagClip.jpg
+
+newmtl magpouches
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\MagPouches.jpeg
+
+newmtl mp5arby
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\mp5_arby.jpg
+
+newmtl mp5sling
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\mp5sling_d.jpg
+
+newmtl patron
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\patron.jpg
+
+newmtl pistolgrip
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\pistolgrip.jpg
+
+newmtl radio
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\Radio.jpeg
+
+newmtl reciever
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\reciever.jpg
+
+newmtl sight
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\sight.jpg
+
+newmtl skin3
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\skin3.jpg
+
+newmtl stock1
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\btstock_1.jpg
+
+newmtl stock2
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\BTStock_2.jpg
+
+newmtl stock3
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\btstock_3.jpg
+
+newmtl target_1
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\target_practice_sheet_1.jpg
+
+newmtl target_2
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\target_practice_sheet_2.jpg
+
+newmtl target_3
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\target_4.jpg
+
+newmtl target_4
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\target_5.jpg
+
+newmtl ulbrich
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\UlbrichCenturio05Helmet.jpeg
+
+newmtl visor
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\Visor.png
+
+newmtl wall_1
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\brickwall056a.jpg
+
+newmtl wall_2
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\concretewall008a.jpg
+
+newmtl weapon
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\weapon.jpg
+
+newmtl wood
+illum 2
+Kd 0.800000 0.800000 0.800000
+Ka 1.000000 1.000000 1.000000
+Ks 0.000000 0.000000 0.000000
+Ke 0.000000 0.000000 0.000000
+Ns 1.450000
+map_Kd C:\Users\Specter\Desktop/C:\Users\Specter\Desktop/mats\\wood_brown01.jpg
