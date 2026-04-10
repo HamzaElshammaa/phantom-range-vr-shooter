@@ -12,9 +12,11 @@ public class HoverGlow : MonoBehaviour
     void Awake()
     {
         rend = GetComponent<Renderer>();
+        if (rend == null) { enabled = false; return; }
         mat = rend.material;
 
         var interactable = GetComponent<UnityEngine.XR.Interaction.Toolkit.Interactables.XRBaseInteractable>();
+        if (interactable == null) { enabled = false; return; }
         interactable.hoverEntered.AddListener(OnHoverEnter);
         interactable.hoverExited.AddListener(OnHoverExit);
     }
