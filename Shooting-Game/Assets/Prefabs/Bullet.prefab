@@ -172,8 +172,11 @@ MonoBehaviour:
   m_GameObject: {fileID: 5247666625525926282}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dc759681adbca88499e90d509d25dae8, type: 3}
+  m_Script: {fileID: 11500000, guid: d5f15bd86a7db814eab92b27c92c1ad4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BulletController
-  speed: 40
-  lifetime: 3
+  speed: 45
+  lifetime: 6
+  visualScale: 22
+  hitRadiusWorld: 0.45
+  projectileColor: {r: 1, g: 0.55, b: 0.1, a: 1}

@@ -409,11 +409,11 @@ public class CelebrationManager : MonoBehaviour
         EditorUtility.SetDirty(gmGO);
 
         // ── Wire GunControllers ───────────────────────────────────────
-        var guns = Object.FindObjectsByType<GunController>(FindObjectsSortMode.None);
-        Debug.Log("[CombatZone] Found " + guns.Length + " GunController(s)");
+        var guns = Object.FindObjectsByType<GunShooter>(FindObjectsSortMode.None);
+        Debug.Log("[CombatZone] Found " + guns.Length + " GunShooter(s)");
         foreach (var gun in guns)
         {
-            gun.bulletPrefab = bulletPrefabAsset;
+            // bulletPrefab removed — GunShooter uses raycasting
             var mp = gun.transform.Find("MuzzlePoint");
             if (mp != null) gun.muzzlePoint = mp;
             else Debug.LogWarning("[CombatZone] No MuzzlePoint on " + gun.name);

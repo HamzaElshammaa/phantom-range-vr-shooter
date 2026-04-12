@@ -118,8 +118,8 @@ public class SetupCombatZone : EditorWindow
         {
             GameObject g = GameObject.Find(gName);
             if (g == null) continue;
-            GunController gc = g.GetComponent<GunController>() ?? g.AddComponent<GunController>();
-            gc.bulletPrefab = bulletPrefabAsset;
+            GunShooter gc = g.GetComponent<GunShooter>() ?? g.AddComponent<GunShooter>();
+            // bulletPrefab removed — GunShooter uses raycasting
             Transform muzzle = g.transform.Find("MuzzlePoint");
             if (muzzle == null)
             {
