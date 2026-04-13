@@ -97,3 +97,6 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Large audio files
+Assets/Scripts/CombatZone/Sounds/Best songs to play shooting games! - Trips (128k).wav
